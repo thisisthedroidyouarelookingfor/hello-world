@@ -1,4 +1,4 @@
 # hello-world
 this is my first repository
 
-i am currently learning how iOS App devlopment and this is all new to me
+i am currently learning iOS App devlopment and this is all new to me
